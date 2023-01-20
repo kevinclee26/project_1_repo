@@ -1,0 +1,1 @@
+print('the average age is 30 years old.')
