@@ -1,1 +1,1 @@
-print('the average age is 30 years old.')
+print('the average age is 25 years old.')
